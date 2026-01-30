@@ -174,3 +174,14 @@ then:-
 
 // 👉 Isliye 4 files dikh rahi hain
 // 👉 Ye 100% normal + correct behavior hai
+
+
+🧠 SHORT MEMORY TRICK
+Folder	Kaam
+components	reusable UI
+pages	full screens
+routes	URL control
+hooks	logic
+types	TypeScript
+services	API
+utils	helpers
